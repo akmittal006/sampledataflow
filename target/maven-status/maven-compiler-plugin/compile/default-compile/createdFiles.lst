@@ -1,0 +1,15 @@
+WindmillPipeline$CountWords.class
+WindmillPipeline.class
+WriteOneFilePerWindow.class
+WindmillPipeline$ExtractStringFromPubSubMessage.class
+GameConstants.class
+WriteToText$FieldFn.class
+WriteToText$WriteOneFilePerWindow.class
+WindmillPipeline$WindmillPipelineOptions.class
+WindmillPipeline$ExtractWordsFn.class
+WindmillPipeline$FormatAsTextFn.class
+WriteToText$PerWindowFiles.class
+WriteToText$BuildRowFn.class
+WriteOneFilePerWindow$PerWindowFiles.class
+WindmillPipeline$WindmillPipelineOptions$PubsubTopicFactory.class
+WriteToText.class
