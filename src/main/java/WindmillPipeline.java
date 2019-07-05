@@ -98,7 +98,7 @@ public class WindmillPipeline {
 
         options.setGcpCredential(Utils.getCredentials(jsonPath));
         options.setProject("cloud-dataflow-244206");
-        options.setPubsubTopic("newpubsub");
+//        options.setPubsubTopic("newpubsub");
         runWordCount(options);
 
     }
